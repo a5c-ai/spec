@@ -2,11 +2,11 @@
 
 ## Overview
 
-This document defines the proposal system for the A5C ecosystem. The proposal system enables community-driven development of new agents, features, and improvements through a structured, transparent process similar to open-source RFCs (Request for Comments).
+This document defines the proposal system for the a5c ecosystem. The proposal system enables community-driven development of new agents, features, and improvements through a structured, transparent process similar to open-source RFCs (Request for Comments).
 
 ## Purpose
 
-The A5C Proposal System serves to:
+The a5c Proposal System serves to:
 
 1. **Standardize Enhancement Process**: Provide a consistent process for proposing changes
 2. **Enable Community Participation**: Allow community members to propose and discuss improvements
@@ -335,7 +335,7 @@ A standardized template will be provided for each proposal type, including:
 
 ## Conclusion
 
-The A5C Proposal System provides a structured, transparent framework for community-driven development of the A5C ecosystem. By following this process, the community can collaboratively develop high-quality agents, features, and improvements that benefit all users.
+The a5c Proposal System provides a structured, transparent framework for community-driven development of the a5c ecosystem. By following this process, the community can collaboratively develop high-quality agents, features, and improvements that benefit all users.
 
 This specification itself is subject to the proposal process and will evolve based on community feedback and experience.
 
