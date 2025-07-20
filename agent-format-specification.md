@@ -1,8 +1,8 @@
-# A5C Agent Format Specification
+# a5c Agent Format Specification
 
 ## Overview
 
-This document defines the standard format for A5C agents - autonomous AI agents that operate within the A5C ecosystem. A5C agents are defined using markdown files with YAML frontmatter, providing a structured way to specify agent behavior, capabilities, and execution parameters.
+This document defines the standard format for a5c agents - autonomous AI agents that operate within the a5c ecosystem. a5c agents are defined using markdown files with YAML frontmatter, providing a structured way to specify agent behavior, capabilities, and execution parameters.
 
 ## Agent File Structure
 
@@ -180,7 +180,7 @@ You are a {role description} agent responsible for {responsibilities}.
 
 ### Inheritance Model
 
-A5C agents support inheritance through the `from` field, allowing agents to:
+a5c agents support inheritance through the `from` field, allowing agents to:
 - Inherit configuration from parent agents
 - Extend or override parent behavior
 - Create specialized versions of base agents
@@ -317,6 +317,6 @@ Perform additional AI-powered threat detection and analysis.
 
 ## Conclusion
 
-This specification provides a comprehensive framework for creating standardized A5C agents. By following these guidelines, developers can create consistent, interoperable agents that integrate seamlessly with the A5C ecosystem.
+This specification provides a comprehensive framework for creating standardized a5c agents. By following these guidelines, developers can create consistent, interoperable agents that integrate seamlessly with the a5c ecosystem.
 
-For questions or clarifications, please refer to the A5C documentation or open an issue in the appropriate repository.
+For questions or clarifications, please refer to the a5c documentation or open an issue in the appropriate repository.
