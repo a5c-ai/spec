@@ -1,4 +1,4 @@
-# A5C Proposal System Specification
+# a5c Proposal System Specification
 
 ## Overview
 
