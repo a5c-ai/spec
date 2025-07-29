@@ -35,12 +35,6 @@ These specifications are living documents that evolve with the A5C ecosystem. To
 | Agent Format | Draft | Partial | Based on existing examples |
 | Proposal System | Draft | Not Started | New system design |
 
-## Related Documentation
-
-- [Agent Examples](../examples/): Example agent implementations
-- [Development Guidelines](../../README.md): General development guidelines
-- [Contributing Guide](../../CONTRIBUTING.md): How to contribute to the project
-
 ## Version History
 
 - **v1.0.0** (2025-07-11): Initial specification release
